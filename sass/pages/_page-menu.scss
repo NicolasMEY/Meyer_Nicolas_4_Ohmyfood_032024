@@ -168,7 +168,8 @@
         margin-right: -20%;
         border-radius: 0px 15px 15px 0px;
         background-color: $color-tertiary;
-        transition: margin-right 600ms ease-in-out;
+        transition:  600ms ease-in-out;
+        // activation translation
 
           &::after {
             display: inline-block;
@@ -176,7 +177,7 @@
             font-size: 25px;
             content: "\f058";
             color: $white;
-            transition: transform 600ms ease-in-out;
+            transition: 600ms ease-in-out;
             font-family: "Font Awesome 5 Free";
           }
     }
