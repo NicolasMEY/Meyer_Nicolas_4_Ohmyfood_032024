@@ -9,9 +9,9 @@ En plus des systèmes classiques de réservation, les clients pourront composer 
 
 ## Guidelines
 
-- Développement en HTML et CSS avec Sass
+- Développement en HTML et CSS avec Sass.
 
-* Pas de Javascipt, ni aucun framework
+* Pas de Javascipt, ni aucun framework.
 
 * Intégration d'une maquette avec des animations CSS
 
